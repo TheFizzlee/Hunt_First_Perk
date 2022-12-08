@@ -1,0 +1,137 @@
+[
+  {
+    "PerkName": "Ambidextrous",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "BeastFace",
+    "Percentage": 790.0,
+    "Counts": 11
+  },
+  {
+    "PerkName": "Bloodless",
+    "Percentage": 150.0,
+    "Counts": 2
+  },
+  {
+    "PerkName": "Conduit",
+    "Percentage": 550.0,
+    "Counts": 7
+  },
+  {
+    "PerkName": "Dauntless",
+    "Percentage": 310.0,
+    "Counts": 3
+  },
+  {
+    "PerkName": "Determination",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "Doctor",
+    "Percentage": 1500.0,
+    "Counts": 19
+  },
+  {
+    "PerkName": "Fanning",
+    "Percentage": 290.0,
+    "Counts": 4
+  },
+  {
+    "PerkName": "Frontiersman",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "Gator Legs",
+    "Percentage": 1040.0,
+    "Counts": 13
+  },
+  {
+    "PerkName": "Ghoul",
+    "Percentage": 150.0,
+    "Counts": 2
+  },
+  {
+    "PerkName": "Greyhound",
+    "Percentage": 1040.0,
+    "Counts": 13
+  },
+  {
+    "PerkName": "Iron Sharp",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "Kiteskin",
+    "Percentage": 410.0,
+    "Counts": 5
+  },
+  {
+    "PerkName": "Lightfood",
+    "Percentage": 700.0,
+    "Counts": 8
+  },
+  {
+    "PerkName": "Magpie",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "Necro",
+    "Percentage": 860.0,
+    "Counts": 11
+  },
+  {
+    "PerkName": "Packmule",
+    "Percentage": 450.0,
+    "Counts": 6
+  },
+  {
+    "PerkName": "Phsyician",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "QuarterMaster",
+    "Percentage": 150.0,
+    "Counts": 2
+  },
+  {
+    "PerkName": "Resilience",
+    "Percentage": 150.0,
+    "Counts": 2
+  },
+  {
+    "PerkName": "Salveskin",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "Serpent",
+    "Percentage": 290.0,
+    "Counts": 4
+  },
+  {
+    "PerkName": "Silent killer",
+    "Percentage": 470.0,
+    "Counts": 6
+  },
+  {
+    "PerkName": "Tomahawk",
+    "Percentage": 240.0,
+    "Counts": 3
+  },
+  {
+    "PerkName": "Vulture",
+    "Percentage": 75.0,
+    "Counts": 1
+  },
+  {
+    "PerkName": "Whispersmith",
+    "Percentage": 150.0,
+    "Counts": 2
+  }
+]

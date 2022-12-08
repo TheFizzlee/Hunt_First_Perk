@@ -1,0 +1,18 @@
+USE master
+
+DROP DATABASE IF EXISTS Hunt
+CREATE DATABASE Hunt
+
+USE Hunt
+
+DROP TABLE IF EXISTS FirstPerk
+
+CREATE TABLE FirstPerk(
+	PerkName VARCHAR(25) NOT NULL,
+	Percentage NUMERIC(5,2) NOT NULL,
+	Counts INT NULL,
+
+	CONSTRAINT PK_PerkName
+		PRIMARY KEY (PerkName)
+)
+

@@ -1,0 +1,32 @@
+USE Hunt
+
+INSERT FirstPerk (PerkName, Percentage) VALUES('Ambidextrous', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('BeastFace', 7.9)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Bloodless', 1.5)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Conduit', 5.5)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Dauntless', 3.1)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Determination', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Doctor', 15)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Fanning', 2.9)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Frontiersman', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Gator Legs', 10.4)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Ghoul', 1.5)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Greyhound', 10.4)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Iron Sharp', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Kiteskin', 4.1)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Lightfood', 7)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Magpie', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Necro', 8.6)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Packmule', 4.5)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Phsyician', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('QuarterMaster', 1.5)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Resilience', 1.5)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Salveskin', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Serpent', 2.9)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Silent killer', 4.7)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Tomahawk', 2.4)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Vulture', 0.75)
+INSERT FirstPerk (PerkName, Percentage) VALUES('Whispersmith', 1.5)
+
+
+SELECT * FROM FirstPerk ORDER BY Percentage DESC
